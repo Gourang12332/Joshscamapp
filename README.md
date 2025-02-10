@@ -1,3 +1,8 @@
+Hello Everyone,
+
+
+Below project is the solution the ps of one of the india's largest hackathon , Innerve 9 , organized by AIT, Pune. I with my team named Techno Titans , has created the solution to this problem. As this is one of the sponsored problem statement by Josh Technical Groups , which makes it more exciting.
+
 
 # 🛡️ ScamShield: Real-Time Scam Call Detection 🛡️
 
