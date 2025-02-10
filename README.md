@@ -1,7 +1,3 @@
-Hello everyone, 
-Below project is the solution project for the Innerve 9 Hackathon, organized by AIT Pune. This is one of the India's largest hackathon,and i with my team named Techno Titan, has participated in it.
-This problem Statement is the sponsored problem statement by Josh Technical Group , in which they demanded for the app, which can detect the scam calls .
-
 
 # 🛡️ ScamShield: Real-Time Scam Call Detection 🛡️
 
