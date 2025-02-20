@@ -80,6 +80,7 @@ python src/gradio_interface.py
 **5. Start the Expo Frontend App:**
 
 ```bash
+npm install -g expo-cli
 npx expo start
 ```
 
